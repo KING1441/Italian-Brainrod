@@ -1,0 +1,15 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/flint"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 100 }, "model": "item/boss_tung_tung/boss" },
+    { "predicate": { "custom_model_data": 101 }, "model": "item/boss_tung_tung/frame_1" },
+    { "predicate": { "custom_model_data": 102 }, "model": "item/boss_tung_tung/frame_2" },
+    { "predicate": { "custom_model_data": 103 }, "model": "item/boss_tung_tung/frame_3" },
+    { "predicate": { "custom_model_data": 104 }, "model": "item/boss_tung_tung/frame_4" },
+    { "predicate": { "custom_model_data": 105 }, "model": "item/boss_tung_tung/frame_5" },
+    { "predicate": { "custom_model_data": 106 }, "model": "item/boss_tung_tung/frame_6" }
+  ]
+}
