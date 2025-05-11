@@ -1,0 +1,178 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "block/test",
+		"particle": "item/zenitsus_sword"
+	},
+	"elements": [
+		{
+			"name": "handle0",
+			"from": [7.5, 0.02, -8],
+			"to": [8.5, 1.02, -0.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.5, 2]},
+			"faces": {
+				"north": {"uv": [2.75, 4.25, 3, 4.5], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [3.25, 3, 5.25, 3.25], "texture": "#1", "cullface": "north"},
+				"west": {"uv": [3.25, 3.25, 5.25, 3.5], "texture": "#1", "cullface": "north"},
+				"up": {"uv": [3.5, 5.5, 3.25, 3.5], "texture": "#1", "cullface": "north"},
+				"down": {"uv": [3.75, 3.5, 3.5, 5.5], "texture": "#1", "cullface": "north"}
+			}
+		},
+		{
+			"name": "handle1",
+			"from": [7.25, -0.25, -0.5],
+			"to": [8.75, 1.25, 0.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 2]},
+			"faces": {
+				"north": {"uv": [1.75, 3.75, 2.25, 4.25], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [2.75, 3.75, 3, 4.25], "texture": "#1"},
+				"west": {"uv": [3, 3.75, 3.25, 4.25], "texture": "#1"},
+				"up": {"uv": [4.25, 4.25, 3.75, 4], "texture": "#1"},
+				"down": {"uv": [2.25, 4.25, 1.75, 4.5], "texture": "#1", "cullface": "down"}
+			}
+		},
+		{
+			"name": "handle2",
+			"from": [6.5, -1, 0.5],
+			"to": [9.5, 2, 0.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.05, 2]},
+			"faces": {
+				"north": {"uv": [1.75, 3, 2.5, 3.75], "texture": "#1"},
+				"east": {"uv": [2.25, 3.75, 2.5, 4.5], "texture": "#1"},
+				"south": {"uv": [2.5, 3, 3.25, 3.75], "texture": "#1"},
+				"west": {"uv": [2.5, 3.75, 2.75, 4.5], "texture": "#1"},
+				"up": {"uv": [4.5, 3.75, 3.75, 3.5], "texture": "#1"},
+				"down": {"uv": [4.5, 3.75, 3.75, 4], "texture": "#1", "cullface": "down"}
+			}
+		},
+		{
+			"name": "blade0",
+			"from": [7.875, -0.25, 0.75],
+			"to": [8.125, 0, 22.5],
+			"faces": {
+				"east": {"uv": [0, 0, 5.5, 0.25], "texture": "#1"},
+				"south": {"uv": [3, 4.25, 3.25, 4.5], "texture": "#1"},
+				"west": {"uv": [0, 0.25, 5.5, 0.5], "texture": "#1"},
+				"up": {"uv": [0.25, 6, 0, 0.5], "texture": "#1"},
+				"down": {"uv": [0.5, 0.5, 0.25, 6], "texture": "#1"}
+			}
+		},
+		{
+			"name": "blade1",
+			"from": [7.875, 0, 0.75],
+			"to": [8.125, 0.25, 22.25],
+			"faces": {
+				"east": {"uv": [0.5, 0.5, 6, 0.75], "texture": "#1"},
+				"south": {"uv": [3.75, 4.25, 4, 4.5], "texture": "#1"},
+				"west": {"uv": [0.5, 0.75, 6, 1], "texture": "#1"},
+				"up": {"uv": [0.75, 6.5, 0.5, 1], "texture": "#1"}
+			}
+		},
+		{
+			"name": "blade3",
+			"from": [7.875, 0.25, 0.75],
+			"to": [8.125, 0.5, 22],
+			"faces": {
+				"east": {"uv": [0.75, 1, 6, 1.25], "texture": "#1"},
+				"south": {"uv": [4, 4.25, 4.25, 4.5], "texture": "#1"},
+				"west": {"uv": [0.75, 1.25, 6, 1.5], "texture": "#1"},
+				"up": {"uv": [1, 6.75, 0.75, 1.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "blade4",
+			"from": [7.875, 0.5, 0.75],
+			"to": [8.125, 0.75, 21.75],
+			"faces": {
+				"east": {"uv": [1, 1.5, 6.25, 1.75], "texture": "#1"},
+				"south": {"uv": [4.25, 4, 4.5, 4.25], "texture": "#1"},
+				"west": {"uv": [1, 1.75, 6.25, 2], "texture": "#1"},
+				"up": {"uv": [1.25, 7.25, 1, 2], "texture": "#1"}
+			}
+		},
+		{
+			"name": "blade5",
+			"from": [7.875, 0.75, 0.75],
+			"to": [8.125, 1, 21.5],
+			"faces": {
+				"east": {"uv": [1.25, 2, 6.5, 2.25], "texture": "#1"},
+				"south": {"uv": [4.25, 4.25, 4.5, 4.5], "texture": "#1"},
+				"west": {"uv": [1.25, 2.25, 6.5, 2.5], "texture": "#1"},
+				"up": {"uv": [1.5, 7.75, 1.25, 2.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "blade6",
+			"from": [7.875, 1, 0.75],
+			"to": [8.125, 1.25, 21.25],
+			"faces": {
+				"east": {"uv": [1.5, 2.5, 6.75, 2.75], "texture": "#1"},
+				"south": {"uv": [1.75, 4.5, 2, 4.75], "texture": "#1"},
+				"west": {"uv": [1.5, 2.75, 6.75, 3], "texture": "#1"},
+				"up": {"uv": [1.75, 8.25, 1.5, 3], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 9, -6.75],
+			"scale": [0.95, 0.95, 0.95]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 9, -6.75],
+			"scale": [0.95, 0.95, 0.95]
+		},
+		"firstperson_righthand": {
+			"rotation": [-75, -3, 5],
+			"translation": [1, 5.75, -5],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-75, -3, 5],
+			"translation": [1, 6, -4.5],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"translation": [-8.75, -2.5, 2.25]
+		},
+		"gui": {
+			"rotation": [-60, 26, 106],
+			"translation": [-5.25, 2.25, 0]
+		},
+		"head": {
+			"rotation": [15, 0, 0],
+			"translation": [0, 14.75, 2],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"rotation": [90, 180, 90],
+			"translation": [11.75, 4, -0.25],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "diamond_sword",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				{
+					"name": "handle",
+					"origin": [8, 8, 0],
+					"color": 0,
+					"children": [0, 1, 2]
+				},
+				{
+					"name": "blade",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [3, 4, 5, 6, 7, 8]
+				}
+			]
+		}
+	]
+}
