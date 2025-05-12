@@ -8,6 +8,7 @@
     {"predicate": { "custom_model_data": 2}, "model": "item/weapons/god_sword"},
     {"predicate": { "custom_model_data": 3}, "model": "item/weapons/gold_master_sword"},
     {"predicate": { "custom_model_data": 4}, "model": "item/weapons/fiercedeity_sword"},
-    {"predicate": { "custom_model_data": 5}, "model": "item/weapons/small_god_sword"}
+    {"predicate": { "custom_model_data": 5}, "model": "item/weapons/small_god_sword"},
+    {"predicate": { "custom_model_data": 6}, "model": "item/weapons/lightning_katana"}
   ]
 }
