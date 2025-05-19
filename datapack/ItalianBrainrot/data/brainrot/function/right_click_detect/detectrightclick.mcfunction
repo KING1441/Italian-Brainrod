@@ -1,0 +1,1 @@
+execute as @a[nbt={SelectedItem:{id:"minecraft:egg", components:{"minecraft:custom_model_data":3}}}] run function brainrot:right_click_detect/chicken
