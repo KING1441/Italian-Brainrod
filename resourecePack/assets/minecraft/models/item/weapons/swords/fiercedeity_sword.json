@@ -3,28 +3,28 @@
 	"parent": "item/handheld",
 	"render_type": "minecraft:cutout",
 	"textures": {
-		"layer0": "item/goddesssword"
+		"layer0": "item/mc_swords/fiercedeitysword"
 	},
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [0, -90, 45],
-			"translation": [-0.25, 4.5, 2],
-			"scale": [1.15, 1.15, 0.8]
+			"rotation": [0, 90, 45],
+			"translation": [-0.25, 6.25, 2],
+			"scale": [1.1, 1.1, 0.8]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [0, 90, -45],
-			"translation": [-0.25, 4.5, 2],
-			"scale": [1.15, 1.15, 0.8]
+			"translation": [-0.25, 6.25, 2],
+			"scale": [1.1, 1.1, 0.8]
 		},
 		"firstperson_righthand": {
 			"rotation": [-10, -51, 25],
-			"translation": [2.13, 3.5, 1.63],
-			"scale": [0.7, 0.7, 0.4]
+			"translation": [1.13, 4.5, 1.63],
+			"scale": [0.7, 0.7, 0.5]
 		},
 		"firstperson_lefthand": {
 			"rotation": [-10, 90, -25],
-			"translation": [1.13, 3.5, 1.13],
-			"scale": [0.7, 0.7, 0.4]
+			"translation": [1.13, 4.5, 1.13],
+			"scale": [0.7, 0.7, 0.5]
 		},
 		"ground": {
 			"translation": [0, 2, 0],
@@ -43,7 +43,7 @@
 	},
 	"groups": [
 		{
-			"name": "goddesssword",
+			"name": "fierce_deity_sword",
 			"origin": [8, 8, 8],
 			"color": 0,
 			"children": []

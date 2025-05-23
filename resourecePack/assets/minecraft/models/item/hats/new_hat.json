@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "minecraft:item/hat",
-		"particle": "minecraft:item/hat"
+		"0": "minecraft:item/hats/first/hat",
+		"particle": "minecraft:item/hats/first/hat"
 	},
 	"elements": [
 		{

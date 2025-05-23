@@ -1,9 +1,27 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/diamond_helmet"
+    "layer0": "item/diamond_helmet" 
   },                                                                                          
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "item/new_hat" }
+    { "predicate": { "custom_model_data": 1 }, "model": "item/hats/new_hat" },
+    { "predicate": { "custom_model_data": 2}, "model": "item/hats/british_officer" },
+    { "predicate": { "custom_model_data": 3}, "model": "item/hats/adrian" },
+    { "predicate": { "custom_model_data": 4}, "model": "item/hats/brodie" },
+    { "predicate": { "custom_model_data": 5}, "model": "item/hats/french_kepi" },
+    { "predicate": { "custom_model_data": 6}, "model": "item/hats/gasmask" },
+    { "predicate": { "custom_model_data": 7}, "model": "item/hats/gray_kepi" },
+    { "predicate": { "custom_model_data": 8}, "model": "item/hats/pickelhaube" },
+    { "predicate": { "custom_model_data": 9}, "model": "item/hats/pith_white" },
+    { "predicate": { "custom_model_data": 10}, "model": "item/hats/pith" },
+    { "predicate": { "custom_model_data": 11}, "model": "item/hats/russian_cap" },
+    { "predicate": { "custom_model_data": 12}, "model": "item/hats/slouch_hat_1_folded" },
+    { "predicate": { "custom_model_data": 13}, "model": "item/hats/slouch_hat_1" },
+    { "predicate": { "custom_model_data": 14}, "model": "item/hats/slouch_hat_2" },
+    { "predicate": { "custom_model_data": 15}, "model": "item/hats/slouch_hat_2_folded" },
+    { "predicate": { "custom_model_data": 16}, "model": "item/hats/helmet_slouch_hat_3" },
+    { "predicate": { "custom_model_data": 17}, "model": "item/hats/slouch_hat_3_folded" },
+    { "predicate": { "custom_model_data": 18}, "model": "item/hats/stahlhelm" },
+    { "predicate": { "custom_model_data": 19}, "model": "item/hats/turban_white" }
   ]
 }

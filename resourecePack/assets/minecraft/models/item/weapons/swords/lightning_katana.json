@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/handle",
-		"1": "item/texture",
-		"2": "item/texture2",
-		"3": "item/texture3",
-		"particle": "item/handle"
+		"0": "item/lightning_katana/handle",
+		"1": "item/lightning_katana/texture",
+		"2": "item/lightning_katana/texture2",
+		"3": "item/lightning_katana/texture3",
+		"particle": "item/lightning_katana/handle"
 	},
 	"elements": [
 		{

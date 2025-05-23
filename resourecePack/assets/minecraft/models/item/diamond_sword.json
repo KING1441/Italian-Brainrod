@@ -4,11 +4,16 @@
     "layer0": "item/diamond_sword"
   },                                                                                          
   "overrides": [
-    {"predicate": { "custom_model_data": 1}, "model": "item/weapons/ninja_sword"},
-    {"predicate": { "custom_model_data": 2}, "model": "item/weapons/god_sword"},
-    {"predicate": { "custom_model_data": 3}, "model": "item/weapons/gold_master_sword"},
-    {"predicate": { "custom_model_data": 4}, "model": "item/weapons/fiercedeity_sword"},
-    {"predicate": { "custom_model_data": 5}, "model": "item/weapons/small_god_sword"},
-    {"predicate": { "custom_model_data": 6}, "model": "item/weapons/lightning_katana"}
+    {"predicate": { "custom_model_data": 1}, "model": "item/weapons/swords/ninja_sword"},
+    {"predicate": { "custom_model_data": 2}, "model": "item/weapons/swords/god_sword"},
+    {"predicate": { "custom_model_data": 3}, "model": "item/weapons/swords/gold_master_sword"},
+    {"predicate": { "custom_model_data": 4}, "model": "item/weapons/swords/fiercedeity_sword"},
+    {"predicate": { "custom_model_data": 5}, "model": "item/weapons/swords/small_god_sword"},
+    {"predicate": { "custom_model_data": 6}, "model": "item/weapons/swords/lightning_katana"},
+    {"predicate": { "custom_model_data": 7}, "model": "item/weapons/swords/clasic_sword"}, 
+    {"predicate": { "custom_model_data": 8}, "model": "item/weapons/light_sabers/duolightsaber"},
+    {"predicate": { "custom_model_data": 9}, "model": "item/weapons/light_sabers/duolightsaber_2"}
   ]
 }
+
+

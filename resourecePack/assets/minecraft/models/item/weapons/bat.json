@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "minecraft:item/batmace",
-		"particle": "minecraft:item/bat_flat"
+		"0": "minecraft:item/bat/batmace",
+		"particle": "minecraft:item/bat/bat_flat"
 	},
 	"elements": [
 		{
