@@ -1,10 +1,18 @@
 {
-  "parent": "item/generated",
+  "parent": "builtin/entity",
+  "gui_light": "front",
   "textures": {
-    "layer0": "item/shield"
+    "particle": "item/shield",
+    "base": "item/shield",
+    "mask": "item/shield_base_nopattern"
   },                                                                                          
   "overrides": [
     {"predicate": { "custom_model_data": 1}, "model": "item/weapons/hylian_shield_blocking"},
     {"predicate": { "custom_model_data": 2}, "model": "item/weapons/hylian_shield"}
   ]
 }
+
+
+
+
+

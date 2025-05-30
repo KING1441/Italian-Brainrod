@@ -1,0 +1,38 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/bow"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 3,
+        "pulling": 1,
+        "pull": 0
+      },
+      "model": "item/kings_smp/void_bow/void_bow_0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3,
+        "pulling": 1,
+        "pull": 0.65
+      },
+      "model": "item/kings_smp/void_bow/void_bow_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3,
+        "pulling": 1,
+        "pull": 0.9
+      },
+      "model": "item/kings_smp/void_bow/void_bow_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/kings_smp/void_bow/void_bow"
+    }
+  ]
+}

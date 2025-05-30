@@ -1,0 +1,9 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/paper"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 5},"model": "item/kings_smp/void_portal"}
+  ]
+}

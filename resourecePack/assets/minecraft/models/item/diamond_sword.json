@@ -12,7 +12,10 @@
     {"predicate": { "custom_model_data": 6}, "model": "item/weapons/swords/lightning_katana"},
     {"predicate": { "custom_model_data": 7}, "model": "item/weapons/swords/clasic_sword"}, 
     {"predicate": { "custom_model_data": 8}, "model": "item/weapons/light_sabers/duolightsaber"},
-    {"predicate": { "custom_model_data": 9}, "model": "item/weapons/light_sabers/duolightsaber_2"}
+    {"predicate": { "custom_model_data": 9}, "model": "item/weapons/light_sabers/duolightsaber_2"},
+    {"predicate": {"custom_model_data": 10001},"model": "item/kings_smp/dragon_blade"},
+    {"predicate": {"custom_model_data": 10002},"model": "item/kings_smp/ghost_blade"},
+    {"predicate": {"custom_model_data": 10003},"model": "item/kings_smp/lifestealer"}
   ]
 }
 

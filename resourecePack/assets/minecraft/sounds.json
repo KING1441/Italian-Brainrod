@@ -1,9 +1,30 @@
 {
-  "custom.arcade": {"category": "master","sounds": ["custom/arcade"]},
-  "custom.capuccino_assasino": {"category": "master","sounds": ["custom/capuccino_assasino"]},
-  "custom.bombardiro_crocodiro": {"category": "master","sounds": ["custom/bombardiro_crocodiro"]},
-  "custom.sigma_boy": {"category": "master","sounds": ["custom/sigma_boy"]},
-  "custom.trippi_troppi": {"category": "master","sounds": ["custom/trippi_troppi"]},
-  "custom.tung_sahur": {"category": "master","sounds": ["custom/tung_sahur"]}
+  "custom.arcade": {"category": "master","sounds": ["custom/cool/arcade"]},
+  "custom.capuccino_assasino": {"category": "master","sounds": ["custom/italian_brainrot/capuccino_assasino"]},
+  "custom.bombardiro_crocodiro": {"category": "master","sounds": ["custom/italian_brainrot/bombardiro_crocodiro"]},
+  "custom.sigma_boy": {"category": "master","sounds": ["custom/meme/sigma_boy"]},
+  "custom.trippi_troppi": {"category": "master","sounds": ["custom/italian_brainrot/trippi_troppi"]},
+  "custom.brr_brr_patapim": {"category": "master","sounds": ["custom/italian_brainrot/brr_brr_patapim"]},
+  "custom.trullimero_trullicina": {"category": "master","sounds": ["custom/italian_brainrot/trullimero_trullicina"]},
+  "custom.bobrini_cocococini": {"category": "master","sounds": ["custom/italian_brainrot/bobrini_cocococini"]},
+  "custom.garam": {"category": "master","sounds": ["custom/italian_brainrot/garam"]},
+  "custom.tralalero_tralala": {"category": "master","sounds": ["custom/italian_brainrot/tralalero_tralala"]},
+  "custom.gyyaaaaat": {"category": "master","sounds": ["custom/meme/gyyaaaaat"]},
+  "custom.mateooo": {"category": "master","sounds": ["custom/italian_brainrot/mateooo"]},
+  "custom.udin_din_din_dun": {"category": "master","sounds": ["custom/italian_brainrot/udin_din_din_dun"]},
+  "custom.get_out": {"category": "master","sounds": ["custom/meme/get_out"]},
+  "custom.ballarina_cappucina": {"category": "master","sounds": ["custom/italian_brainrot/ballarina_cappucina"]},
+  "custom.bananita_dolfinitaaaaa": {"category": "master","sounds": ["custom/italian_brainrot/bananita_dolfinitaaaaa"]},
+  "custom.bombombino_goosini": {"category": "master","sounds": ["custom/italian_brainrot/bombombino_goosini"]},
+  "custom.boneca_ambalabu": {"category": "master","sounds": ["custom/italian_brainrot/boneca_ambalabu"]},
+  "custom.chimpanzini_bananini": {"category": "master","sounds": ["custom/italian_brainrot/chimpanzini_bananini"]},
+  "custom.frigo_camelo": {"category": "master","sounds": ["custom/italian_brainrot/frigo_camelo"]},
+  "custom.glorbo_frutto_drillo": {"category": "master","sounds": ["custom/italian_brainrot/glorbo_frutto_drillo"]},
+  "custom.trainlostrutsotorbotresmio": {"category": "master","sounds": ["custom/italian_brainrot/trainlostrutsotorbotresmio"]},
+  "custom.zeebra_zoobra_zibrilini": {"category": "master","sounds": ["custom/italian_brainrot/zeebra_zoobra_zibrilini"]},
+  "custom.tung_sahur": {"category": "master","sounds": ["custom/italian_brainrot/tung_sahur"]}
 }
+
+
+
 

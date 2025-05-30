@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "custom_item_template/tulip_pickaxe",
-		"particle": "custom_item_template/tulip_pickaxe"
+		"0": "item/tulip_pickaxe",
+		"particle": "item/tulip_pickaxe"
 	},
 	"elements": [
 		{
